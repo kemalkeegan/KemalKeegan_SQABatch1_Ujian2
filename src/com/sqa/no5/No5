@@ -1,0 +1,5 @@
+a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya. tidak
+b. Suatu method wajib meminta parameter dari pemanggilnya. tidak
+c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang sama. tidak
+d. Suatu method dapat memiliki lebih dari satu parameter. benar
+e. Suatu method dapat memiliki lebih dari satu return value. benar
